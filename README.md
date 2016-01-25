@@ -1,1 +1,2 @@
-# Lab3-repo
+Name: Sarah Godine
+Assignment 3
